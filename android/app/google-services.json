@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "486474310121",
+    "project_id": "mibodega-3a97f",
+    "storage_bucket": "mibodega-3a97f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486474310121:android:93cd264e8fe43445362b78",
+        "android_client_info": {
+          "package_name": "com.example.modalcrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486474310121-hm6r0at31ol7a50tqoe5l4bguhf7etrj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs4hLKYCfI0khAEg8V4clXuIeKPmw_NUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486474310121-hm6r0at31ol7a50tqoe5l4bguhf7etrj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
